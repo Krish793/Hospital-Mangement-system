@@ -1,0 +1,26 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: hmisphp**
+
+**Developed by Martin Mbithi Nzilani**
+
+**Recommended PHP Version 5.6, 7.4**
+
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: Admin@123
+
+
+**Doctor Login Details**
+
+ID      : YDS7L
+Password: Doctor123
+
+**Patient Login Details**
+
+ID      : A123
+Password: Anish123
+
+
